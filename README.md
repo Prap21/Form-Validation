@@ -14,7 +14,8 @@ A user-friendly form validation project that provides real-time feedback as user
 - JavaScript: For real-time input validation and dynamic DOM updates
 
 🚀 Live Demo
-Try the live version here: Live Demo Link
+Try the live version here: [Form Validation](https://Prap21.github.io/Form-Validation/)
+
 
 ⚙️ How It Works
 - Input Fields: The form includes fields such as name, email, and password.
